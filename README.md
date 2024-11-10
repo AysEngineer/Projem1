@@ -1,5 +1,5 @@
 # Projem1
-## About my first project on GitHub. Work experience notes.
+## About my first project on GitHub. Experience notes.
 (OvcontSoftware)
 Bu proje, bir ovcont için yazılmış bir mikrodenetleyici yazılımıdır. Yazılım, fırın sıcaklık kontrolü, dijital ekran yönetimi, buton taraması ve senkronizasyon gibi fonksiyonları içerir. Bu yazılım, BS86D20CA mikroişlemcisi ve özelleştirilmiş donanım platformu için geliştirilmiştir.
 
